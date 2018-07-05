@@ -16,9 +16,10 @@ Here you will find a working Arch Linux image with the latest firmware, drivers 
 # Requirements
 * Ethernet Cable or Keyboard + HDMI
 * Raspberry Pi 3 B+
+* 16GB Micro SD 
+* Headphones or AUX cable for sound output (Optional)
 * HackRF One (Optional)
 * RTL-SDR (Optional)
-* 16GB Micro SD 
 
 # Installation
  * Grab the latest release
