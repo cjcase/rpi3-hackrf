@@ -37,8 +37,10 @@ Here you will find a working Arch Linux image with the latest firmware, drivers 
  Login:    hackrf
  Password: hackrf
  ```
- * Follow the first setup instructions
- * Run the X server  
+ * Follow the first run wizard after login
+ * SSH? activate VNC!  
+ `vncserver`
+ * Plugged in with screen/keyboard/mouse? Run the desktop!
  `startx`
  * ???
  * PROFIT!
