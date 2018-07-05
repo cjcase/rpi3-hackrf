@@ -13,6 +13,13 @@ A remix of Arch Linux ARM for Raspberry Pi 3 B+ built for HackRF and RTL-SDR.
 
 Here you will find a working Arch Linux image with the latest firmware, drivers and software to use HackRF and RTL-SDR in a Raspberry Pi 3 B+.  
 
+# Requirements
+* Ethernet Cable or Keyboard + HDMI
+* Raspberry Pi 3 B+
+* HackRF One (Optional)
+* RTL-SDR (Optional)
+* 16GB Micro SD 
+
 # Installation
  * Grab the latest release
  
