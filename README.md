@@ -1,3 +1,4 @@
+# About
 ```
              _ ____        _                _          __ 
          (( (_)___ \      | |              | |        / _|
@@ -7,9 +8,9 @@
  |_|  | .__/|_|____/      |_| |_|\__,_|\___|_|\_\_|  |_|  
       | |2018.07                                   (( | ))         
       |_|    
-
-```
 A remix of Arch Linux ARM for Raspberry Pi 3 B+ built for HackRF and RTL-SDR.  
+```
+
 Here you will find a working Arch Linux image with the latest firmware, drivers and software to use HackRF and RTL-SDR in a Raspberry Pi 3 B+.  
 
 # Installation
