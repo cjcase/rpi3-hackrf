@@ -22,9 +22,10 @@ Here you will find a working Arch Linux image with the latest firmware, drivers 
 * RTL-SDR (Optional)
 
 # Installation
- * Grab the latest release
- 
- `wget https://<release link here>/rpi3-hackrf.img.tgz`
+ * Grab the latest release  
+ https://github.com/cjcase/rpi3-hackrf/releases/download/2018.07/rpi3-hackrf-201807.tar.xz  
+or   
+ `wget https://github.com/cjcase/rpi3-hackrf/releases/download/2018.07/rpi3-hackrf-201807.tar.xz`
  
  * unpack and dd image to a micro SD card
  
@@ -48,6 +49,7 @@ Here you will find a working Arch Linux image with the latest firmware, drivers 
   # What's Inside?
  Please check the `packages.txt` file for a full list of the installed software for this distribution. 
  * [Built on PINN for easy recovery/reinstall](https://github.com/procount/pinn)
+ * [Rolling release and bleeding edge software releases from Arch Linux ARM](https://archlinuxarm.org/)
  * Automagically DHCP connect through eth0 on boot
  * SSH Server listening in port 22
  * First run script for security purpouses (no IoT botnets here, unless you never ran the script)
